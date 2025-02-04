@@ -6,4 +6,4 @@ SUMO for Simulation:
 We use SUMO (Simulator for Urban MObility) software to simulate the traffic lights in real time.
 SUMO is employed for simulation purposes, providing a realistic environment to test and optimize traffic signal strategies in our model.
 
-Here are examples of some of the maps used to train the model.
+soon updating examples of some of the maps used to train the model.
